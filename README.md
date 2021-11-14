@@ -1,1 +1,1 @@
-Сервис поиска изображений Pixabay. REACT.
+Телефонная книга c Local Storage.
